@@ -1,0 +1,26 @@
+# Dependencies
+node_modules/
+
+# Rendered video outputs (keep folder structure via .gitkeep)
+exports/**/*.mp4
+exports/**/*.mov
+exports/**/*.webm
+exports/**/*.png
+exports/**/*.jpg
+social/**/*.mp4
+social/**/*.mov
+social/**/*.webm
+
+# Build & Remotion cache
+build/
+.remotion/
+
+# Environment
+.env
+.env.local
+
+# OS & Logs
+.DS_Store
+Thumbs.db
+*.log
+npm-debug.log*

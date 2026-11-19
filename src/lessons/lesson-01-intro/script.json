@@ -1,0 +1,95 @@
+{
+  "lessonId": "lesson-01-intro",
+  "lessonNumber": 1,
+  "fps": 30,
+  "locales": {
+    "uz": {
+      "lessonBadge": "1-dars",
+      "brandTitle": "QARZ DAFTAR",
+      "brandHandle": "@qarzdaftar_official",
+      "watermark": "qarzdaftar.uz",
+      "scenes": [
+        {
+          "id": "intro",
+          "durationSec": 10,
+          "title": "Qog'oz daftar bilan xayrlashing",
+          "narration": "Daftaringiz eskirib, sahifalari yirtilyaptimi yoki choy to'kilib qarzlar o'chib ketishidan xavotirdamisiz? Mijoz kelganda daftarni varaqlab izlashga chek qo'ying. QarzDaftar barcha qarz va to'lovlarni telefoningizda tartibga soladi."
+        },
+        {
+          "id": "quick-debt",
+          "durationSec": 9,
+          "title": "Qarz yozildi — SMS darhol bordi",
+          "narration": "Qarz berganda xijolat bo'lish yo'q. Mijoz ismi va summani yozishingiz bilan uning telefoniga rasmiy SMS xabar boradi. Qarz sahifasida esa har bir to'lov va xabarlar tarixi birma-bir saqlanib boradi."
+        },
+        {
+          "id": "installment",
+          "durationSec": 10,
+          "title": "Nasiya savdo va oylik jadval",
+          "narration": "Muzlatkich yoki telefonni nasiyaga berdingizmi? Ilova har bir oy uchun aniq to'lov jadvalini shakllantiradi. To'lov kuni kelganda esa mijozga o'zi muloyim eslatma yuborib, pulingizni vaqtida qaytarishga yordam beradi."
+        },
+        {
+          "id": "suppliers",
+          "durationSec": 9,
+          "title": "Ta'minotchilar bilan toza hisob",
+          "narration": "Do'koningizga tovar olib keladigan optomchilar oldidagi qarzingizni ham unutmang. Qancha tovar qabul qildingiz, hisobiga qancha pul berdingiz va qancha qoldiq qarz qoldi — hammasi yoningizda."
+        },
+        {
+          "id": "analytics",
+          "durationSec": 9,
+          "title": "Do'koningiz daromadini biling",
+          "narration": "Do'konda haqiqatan foyda qolyaptimi yoki hamma pul qarzga ketyaptimi? Birgina tugma bilan haftalik, oylik va yillik tushumni ko'rib, savdoyingiz o'sishini o'zingiz tahlil qilasiz."
+        },
+        {
+          "id": "outro",
+          "durationSec": 6,
+          "title": "Hoziroq o'rnatib oling",
+          "narration": "Hisob-kitobingiz toza, ko'nglingiz xotirjam bo'lsin. Google Play'ga kiring va QarzDaftar ilovasini bepul yuklab oling."
+        }
+      ]
+    },
+    "ru": {
+      "lessonBadge": "Урок 1",
+      "brandTitle": "QARZ DAFTAR",
+      "brandHandle": "@qarzdaftar_official",
+      "watermark": "qarzdaftar.uz",
+      "scenes": [
+        {
+          "id": "intro",
+          "durationSec": 10,
+          "title": "Попрощайтесь с бумажной тетрадью",
+          "narration": "Тетрадь рвётся, страницы пачкаются, а при расчётах легко ошибиться и поспорить с клиентом? Перестаньте листать тетради в поисках долгов. QarzDaftar наведёт идеальный порядок прямо в вашем телефоне."
+        },
+        {
+          "id": "quick-debt",
+          "durationSec": 9,
+          "title": "Записали долг — SMS ушло сразу",
+          "narration": "Больше никакой неловкости при выдаче долга. Как только вы вводите имя и сумму, клиенту уходит вежливое SMS. А в карточке сохраняется вся история каждой оплаты и сообщения."
+        },
+        {
+          "id": "installment",
+          "durationSec": 10,
+          "title": "Рассрочка и график платежей",
+          "narration": "Отдали холодильник или телефон в рассрочку? Приложение само составит наглядный график по месяцам. А в день платежа вовремя отправит клиенту деликатное напоминание."
+        },
+        {
+          "id": "suppliers",
+          "durationSec": 9,
+          "title": "Точный расчёт с поставщиками",
+          "narration": "Не забывайте и о расчётах с оптовиками, которые привозят вам товар. Сколько товара принято, сколько денег отдано и каков остаток долга — всё всегда под рукой."
+        },
+        {
+          "id": "analytics",
+          "durationSec": 9,
+          "title": "Узнайте реальную прибыль магазина",
+          "narration": "Остаётся ли в магазине реальная прибыль или все деньги уходят в долги? В один клик смотрите отчёты за неделю, месяц и год, и уверенно развивайте свой бизнес."
+        },
+        {
+          "id": "outro",
+          "durationSec": 6,
+          "title": "Скачайте бесплатно прямо сейчас",
+          "narration": "Пусть ваши расчёты будут точными, а душа — спокойной. Зайдите в Google Play и скачайте приложение QarzDaftar бесплатно."
+        }
+      ]
+    }
+  }
+}

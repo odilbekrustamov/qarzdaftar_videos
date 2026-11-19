@@ -1,0 +1,1817 @@
+{
+  "uz": {
+    "intro": {
+      "file": "lessons/lesson-01-intro/audio/uz/intro.wav",
+      "durationSec": 13.22,
+      "words": [
+        {
+          "text": "Daftaringiz",
+          "startSec": 0.08,
+          "endSec": 0.735
+        },
+        {
+          "text": "eskirib,",
+          "startSec": 0.762,
+          "endSec": 1.188
+        },
+        {
+          "text": "sahifalari",
+          "startSec": 1.257,
+          "endSec": 2.028
+        },
+        {
+          "text": "yirtilyaptimi",
+          "startSec": 2.06,
+          "endSec": 2.869
+        },
+        {
+          "text": "yoki",
+          "startSec": 2.903,
+          "endSec": 3.211
+        },
+        {
+          "text": "choy",
+          "startSec": 3.224,
+          "endSec": 3.404
+        },
+        {
+          "text": "to'kilib",
+          "startSec": 3.411,
+          "endSec": 3.899
+        },
+        {
+          "text": "qarzlar",
+          "startSec": 3.919,
+          "endSec": 4.266
+        },
+        {
+          "text": "o'chib",
+          "startSec": 4.281,
+          "endSec": 4.615
+        },
+        {
+          "text": "ketishidan",
+          "startSec": 4.629,
+          "endSec": 5.271
+        },
+        {
+          "text": "xavotirdamisiz?",
+          "startSec": 5.297,
+          "endSec": 6.149
+        },
+        {
+          "text": "Mijoz",
+          "startSec": 6.287,
+          "endSec": 6.608
+        },
+        {
+          "text": "kelganda",
+          "startSec": 6.622,
+          "endSec": 7.11
+        },
+        {
+          "text": "daftarni",
+          "startSec": 7.13,
+          "endSec": 7.618
+        },
+        {
+          "text": "varaqlab",
+          "startSec": 7.639,
+          "endSec": 8.127
+        },
+        {
+          "text": "izlashga",
+          "startSec": 8.147,
+          "endSec": 8.635
+        },
+        {
+          "text": "chek",
+          "startSec": 8.655,
+          "endSec": 8.835
+        },
+        {
+          "text": "qo'ying.",
+          "startSec": 8.843,
+          "endSec": 9.153
+        },
+        {
+          "text": "QarzDaftar",
+          "startSec": 9.204,
+          "endSec": 9.718
+        },
+        {
+          "text": "barcha",
+          "startSec": 9.739,
+          "endSec": 10.073
+        },
+        {
+          "text": "qarz",
+          "startSec": 10.087,
+          "endSec": 10.267
+        },
+        {
+          "text": "va",
+          "startSec": 10.274,
+          "endSec": 10.428
+        },
+        {
+          "text": "to'lovlarni",
+          "startSec": 10.435,
+          "endSec": 11.09
+        },
+        {
+          "text": "telefoningizda",
+          "startSec": 11.117,
+          "endSec": 12.067
+        },
+        {
+          "text": "tartibga",
+          "startSec": 12.107,
+          "endSec": 12.595
+        },
+        {
+          "text": "soladi.",
+          "startSec": 12.615,
+          "endSec": 13.029
+        }
+      ]
+    },
+    "home": {
+      "file": "lessons/lesson-01-intro/audio/uz/home.mp3",
+      "durationSec": 5.41,
+      "words": [
+        {
+          "text": "Asosiy",
+          "startSec": 0.087,
+          "endSec": 0.512
+        },
+        {
+          "text": "ekranda",
+          "startSec": 0.575,
+          "endSec": 1.05
+        },
+        {
+          "text": "umumiy",
+          "startSec": 1.075,
+          "endSec": 1.475
+        },
+        {
+          "text": "qarz",
+          "startSec": 1.488,
+          "endSec": 1.775
+        },
+        {
+          "text": "summasi",
+          "startSec": 1.775,
+          "endSec": 2.263
+        },
+        {
+          "text": "bugungi",
+          "startSec": 2.337,
+          "endSec": 2.725
+        },
+        {
+          "text": "kirim-chiqim",
+          "startSec": 2.725,
+          "endSec": 3.288
+        },
+        {
+          "text": "va",
+          "startSec": 3.288,
+          "endSec": 3.388
+        },
+        {
+          "text": "barcha",
+          "startSec": 3.4,
+          "endSec": 3.75
+        },
+        {
+          "text": "mijozlar",
+          "startSec": 3.75,
+          "endSec": 4.263
+        },
+        {
+          "text": "ro'yxati",
+          "startSec": 4.263,
+          "endSec": 4.688
+        },
+        {
+          "text": "ko'rinib",
+          "startSec": 4.688,
+          "endSec": 5.088
+        },
+        {
+          "text": "turadi",
+          "startSec": 5.1,
+          "endSec": 5.412
+        }
+      ]
+    },
+    "add-debt": {
+      "file": "lessons/lesson-01-intro/audio/uz/add-debt.mp3",
+      "durationSec": 5.84,
+      "words": [
+        {
+          "text": "Yangi",
+          "startSec": 0.087,
+          "endSec": 0.362
+        },
+        {
+          "text": "qarz",
+          "startSec": 0.412,
+          "endSec": 0.713
+        },
+        {
+          "text": "yozish",
+          "startSec": 0.725,
+          "endSec": 1.05
+        },
+        {
+          "text": "uchun",
+          "startSec": 1.063,
+          "endSec": 1.313
+        },
+        {
+          "text": "mijoz",
+          "startSec": 1.313,
+          "endSec": 1.675
+        },
+        {
+          "text": "raqami",
+          "startSec": 1.7,
+          "endSec": 2.087
+        },
+        {
+          "text": "summa",
+          "startSec": 2.163,
+          "endSec": 2.513
+        },
+        {
+          "text": "va",
+          "startSec": 2.513,
+          "endSec": 2.625
+        },
+        {
+          "text": "to'lov",
+          "startSec": 2.638,
+          "endSec": 3.025
+        },
+        {
+          "text": "muddatini",
+          "startSec": 3.038,
+          "endSec": 3.538
+        },
+        {
+          "text": "kiriting",
+          "startSec": 3.538,
+          "endSec": 4
+        },
+        {
+          "text": "SMS",
+          "startSec": 4.1,
+          "endSec": 4.425
+        },
+        {
+          "text": "eslatmani",
+          "startSec": 4.463,
+          "endSec": 5.05
+        },
+        {
+          "text": "yoqib",
+          "startSec": 5.05,
+          "endSec": 5.388
+        },
+        {
+          "text": "saqlang",
+          "startSec": 5.4,
+          "endSec": 5.838
+        }
+      ]
+    },
+    "sms-payment": {
+      "file": "lessons/lesson-01-intro/audio/uz/sms-payment.mp3",
+      "durationSec": 6.22,
+      "words": [
+        {
+          "text": "Muddati",
+          "startSec": 0.087,
+          "endSec": 0.475
+        },
+        {
+          "text": "kelganda",
+          "startSec": 0.512,
+          "endSec": 1.012
+        },
+        {
+          "text": "mijozga",
+          "startSec": 1.012,
+          "endSec": 1.462
+        },
+        {
+          "text": "avtomatik",
+          "startSec": 1.475,
+          "endSec": 2.05
+        },
+        {
+          "text": "SMS",
+          "startSec": 2.063,
+          "endSec": 2.3
+        },
+        {
+          "text": "boradi",
+          "startSec": 2.325,
+          "endSec": 2.712
+        },
+        {
+          "text": "To'lov",
+          "startSec": 3.575,
+          "endSec": 3.913
+        },
+        {
+          "text": "qilinganda",
+          "startSec": 3.925,
+          "endSec": 4.475
+        },
+        {
+          "text": "esa",
+          "startSec": 4.475,
+          "endSec": 4.7
+        },
+        {
+          "text": "bir",
+          "startSec": 4.713,
+          "endSec": 4.888
+        },
+        {
+          "text": "tugma",
+          "startSec": 4.9,
+          "endSec": 5.213
+        },
+        {
+          "text": "bilan",
+          "startSec": 5.225,
+          "endSec": 5.487
+        },
+        {
+          "text": "qayd",
+          "startSec": 5.5,
+          "endSec": 5.775
+        },
+        {
+          "text": "etasiz",
+          "startSec": 5.787,
+          "endSec": 6.225
+        }
+      ]
+    },
+    "statistics": {
+      "file": "lessons/lesson-01-intro/audio/uz/statistics.mp3",
+      "durationSec": 5.17,
+      "words": [
+        {
+          "text": "Hisobot",
+          "startSec": 0.087,
+          "endSec": 0.487
+        },
+        {
+          "text": "bo'limida",
+          "startSec": 0.525,
+          "endSec": 0.988
+        },
+        {
+          "text": "oylik",
+          "startSec": 1,
+          "endSec": 1.375
+        },
+        {
+          "text": "tushum",
+          "startSec": 1.375,
+          "endSec": 1.663
+        },
+        {
+          "text": "berilgan",
+          "startSec": 1.738,
+          "endSec": 2.25
+        },
+        {
+          "text": "qarzlar",
+          "startSec": 2.25,
+          "endSec": 2.712
+        },
+        {
+          "text": "va",
+          "startSec": 2.725,
+          "endSec": 2.825
+        },
+        {
+          "text": "do'koningiz",
+          "startSec": 2.837,
+          "endSec": 3.438
+        },
+        {
+          "text": "ko'rsatkichlarini",
+          "startSec": 3.462,
+          "endSec": 4.263
+        },
+        {
+          "text": "kuzatib",
+          "startSec": 4.263,
+          "endSec": 4.675
+        },
+        {
+          "text": "borasiz",
+          "startSec": 4.675,
+          "endSec": 5.175
+        }
+      ]
+    },
+    "quick-debt": {
+      "file": "lessons/lesson-01-intro/audio/uz/quick-debt.wav",
+      "durationSec": 11.41,
+      "words": [
+        {
+          "text": "Qarz",
+          "startSec": 0.08,
+          "endSec": 0.26
+        },
+        {
+          "text": "berganda",
+          "startSec": 0.268,
+          "endSec": 0.756
+        },
+        {
+          "text": "xijolat",
+          "startSec": 0.777,
+          "endSec": 1.253
+        },
+        {
+          "text": "bo'lish",
+          "startSec": 1.272,
+          "endSec": 1.62
+        },
+        {
+          "text": "yo'q.",
+          "startSec": 1.634,
+          "endSec": 1.795
+        },
+        {
+          "text": "Mijoz",
+          "startSec": 1.822,
+          "endSec": 2.143
+        },
+        {
+          "text": "ismi",
+          "startSec": 2.157,
+          "endSec": 2.465
+        },
+        {
+          "text": "va",
+          "startSec": 2.478,
+          "endSec": 2.632
+        },
+        {
+          "text": "summani",
+          "startSec": 2.639,
+          "endSec": 3.115
+        },
+        {
+          "text": "yozishingiz",
+          "startSec": 3.135,
+          "endSec": 3.791
+        },
+        {
+          "text": "bilan",
+          "startSec": 3.818,
+          "endSec": 4.139
+        },
+        {
+          "text": "uning",
+          "startSec": 4.153,
+          "endSec": 4.474
+        },
+        {
+          "text": "telefoniga",
+          "startSec": 4.488,
+          "endSec": 5.259
+        },
+        {
+          "text": "rasmiy",
+          "startSec": 5.292,
+          "endSec": 5.626
+        },
+        {
+          "text": "SMS",
+          "startSec": 5.64,
+          "endSec": 5.807
+        },
+        {
+          "text": "xabar",
+          "startSec": 5.814,
+          "endSec": 6.136
+        },
+        {
+          "text": "boradi.",
+          "startSec": 6.149,
+          "endSec": 6.564
+        },
+        {
+          "text": "Qarz",
+          "startSec": 6.631,
+          "endSec": 6.811
+        },
+        {
+          "text": "sahifasida",
+          "startSec": 6.819,
+          "endSec": 7.591
+        },
+        {
+          "text": "esa",
+          "startSec": 7.623,
+          "endSec": 7.919
+        },
+        {
+          "text": "har",
+          "startSec": 7.931,
+          "endSec": 8.098
+        },
+        {
+          "text": "bir",
+          "startSec": 8.105,
+          "endSec": 8.272
+        },
+        {
+          "text": "to'lov",
+          "startSec": 8.279,
+          "endSec": 8.614
+        },
+        {
+          "text": "va",
+          "startSec": 8.628,
+          "endSec": 8.782
+        },
+        {
+          "text": "xabarlar",
+          "startSec": 8.788,
+          "endSec": 9.277
+        },
+        {
+          "text": "tarixi",
+          "startSec": 9.297,
+          "endSec": 9.76
+        },
+        {
+          "text": "birma-bir",
+          "startSec": 9.78,
+          "endSec": 10.281
+        },
+        {
+          "text": "saqlanib",
+          "startSec": 10.302,
+          "endSec": 10.791
+        },
+        {
+          "text": "boradi.",
+          "startSec": 10.811,
+          "endSec": 11.226
+        }
+      ]
+    },
+    "installment": {
+      "file": "lessons/lesson-01-intro/audio/uz/installment.wav",
+      "durationSec": 11.96,
+      "words": [
+        {
+          "text": "Muzlatkich",
+          "startSec": 0.08,
+          "endSec": 0.552
+        },
+        {
+          "text": "yoki",
+          "startSec": 0.572,
+          "endSec": 0.855
+        },
+        {
+          "text": "telefonni",
+          "startSec": 0.867,
+          "endSec": 1.446
+        },
+        {
+          "text": "nasiyaga",
+          "startSec": 1.47,
+          "endSec": 2.036
+        },
+        {
+          "text": "berdingizmi?",
+          "startSec": 2.06,
+          "endSec": 2.599
+        },
+        {
+          "text": "Ilova",
+          "startSec": 2.687,
+          "endSec": 3.1
+        },
+        {
+          "text": "har",
+          "startSec": 3.117,
+          "endSec": 3.271
+        },
+        {
+          "text": "bir",
+          "startSec": 3.277,
+          "endSec": 3.431
+        },
+        {
+          "text": "oy",
+          "startSec": 3.437,
+          "endSec": 3.579
+        },
+        {
+          "text": "uchun",
+          "startSec": 3.585,
+          "endSec": 3.88
+        },
+        {
+          "text": "aniq",
+          "startSec": 3.892,
+          "endSec": 4.176
+        },
+        {
+          "text": "to'lov",
+          "startSec": 4.187,
+          "endSec": 4.494
+        },
+        {
+          "text": "jadvalini",
+          "startSec": 4.507,
+          "endSec": 5.086
+        },
+        {
+          "text": "shakllantiradi.",
+          "startSec": 5.11,
+          "endSec": 5.787
+        },
+        {
+          "text": "To'lov",
+          "startSec": 5.897,
+          "endSec": 6.204
+        },
+        {
+          "text": "kuni",
+          "startSec": 6.216,
+          "endSec": 6.5
+        },
+        {
+          "text": "kelganda",
+          "startSec": 6.512,
+          "endSec": 6.96
+        },
+        {
+          "text": "esa",
+          "startSec": 6.979,
+          "endSec": 7.25
+        },
+        {
+          "text": "mijozga",
+          "startSec": 7.262,
+          "endSec": 7.699
+        },
+        {
+          "text": "o'zi",
+          "startSec": 7.717,
+          "endSec": 8.0
+        },
+        {
+          "text": "muloyim",
+          "startSec": 8.012,
+          "endSec": 8.449
+        },
+        {
+          "text": "eslatma",
+          "startSec": 8.467,
+          "endSec": 8.904
+        },
+        {
+          "text": "yuborib,",
+          "startSec": 8.922,
+          "endSec": 9.313
+        },
+        {
+          "text": "pulingizni",
+          "startSec": 9.377,
+          "endSec": 9.967
+        },
+        {
+          "text": "vaqtida",
+          "startSec": 9.992,
+          "endSec": 10.429
+        },
+        {
+          "text": "qaytarishga",
+          "startSec": 10.447,
+          "endSec": 11.049
+        },
+        {
+          "text": "yordam",
+          "startSec": 11.074,
+          "endSec": 11.381
+        },
+        {
+          "text": "beradi.",
+          "startSec": 11.394,
+          "endSec": 11.774
+        }
+      ]
+    },
+    "suppliers": {
+      "file": "lessons/lesson-01-intro/audio/uz/suppliers.wav",
+      "durationSec": 10.98,
+      "words": [
+        {
+          "text": "Do'koningizga",
+          "startSec": 0.08,
+          "endSec": 0.892
+        },
+        {
+          "text": "tovar",
+          "startSec": 0.925,
+          "endSec": 1.248
+        },
+        {
+          "text": "olib",
+          "startSec": 1.261,
+          "endSec": 1.57
+        },
+        {
+          "text": "keladigan",
+          "startSec": 1.583,
+          "endSec": 2.214
+        },
+        {
+          "text": "optomchilar",
+          "startSec": 2.241,
+          "endSec": 2.898
+        },
+        {
+          "text": "oldidagi",
+          "startSec": 2.925,
+          "endSec": 3.543
+        },
+        {
+          "text": "qarzingizni",
+          "startSec": 3.569,
+          "endSec": 4.226
+        },
+        {
+          "text": "ham",
+          "startSec": 4.254,
+          "endSec": 4.421
+        },
+        {
+          "text": "unutmang.",
+          "startSec": 4.428,
+          "endSec": 4.867
+        },
+        {
+          "text": "Qancha",
+          "startSec": 4.938,
+          "endSec": 5.273
+        },
+        {
+          "text": "tovar",
+          "startSec": 5.287,
+          "endSec": 5.609
+        },
+        {
+          "text": "qabul",
+          "startSec": 5.622,
+          "endSec": 5.944
+        },
+        {
+          "text": "qildingiz,",
+          "startSec": 5.958,
+          "endSec": 6.408
+        },
+        {
+          "text": "hisobiga",
+          "startSec": 6.481,
+          "endSec": 7.1
+        },
+        {
+          "text": "qancha",
+          "startSec": 7.125,
+          "endSec": 7.46
+        },
+        {
+          "text": "pul",
+          "startSec": 7.474,
+          "endSec": 7.642
+        },
+        {
+          "text": "berdingiz",
+          "startSec": 7.649,
+          "endSec": 8.151
+        },
+        {
+          "text": "va",
+          "startSec": 8.172,
+          "endSec": 8.327
+        },
+        {
+          "text": "qancha",
+          "startSec": 8.333,
+          "endSec": 8.668
+        },
+        {
+          "text": "qoldiq",
+          "startSec": 8.682,
+          "endSec": 9.017
+        },
+        {
+          "text": "qarz",
+          "startSec": 9.031,
+          "endSec": 9.211
+        },
+        {
+          "text": "qoldi",
+          "startSec": 9.219,
+          "endSec": 9.541
+        },
+        {
+          "text": "—",
+          "startSec": 9.554,
+          "endSec": 9.67
+        },
+        {
+          "text": "hammasi",
+          "startSec": 9.689,
+          "endSec": 10.165
+        },
+        {
+          "text": "yoningizda.",
+          "startSec": 10.185,
+          "endSec": 10.762
+        }
+      ]
+    },
+    "analytics": {
+      "file": "lessons/lesson-01-intro/audio/uz/analytics.wav",
+      "durationSec": 9.93,
+      "words": [
+        {
+          "text": "Do'konda",
+          "startSec": 0.08,
+          "endSec": 0.551
+        },
+        {
+          "text": "haqiqatan",
+          "startSec": 0.571,
+          "endSec": 1.178
+        },
+        {
+          "text": "foyda",
+          "startSec": 1.204,
+          "endSec": 1.514
+        },
+        {
+          "text": "qolyaptimi",
+          "startSec": 1.527,
+          "endSec": 2.147
+        },
+        {
+          "text": "yoki",
+          "startSec": 2.172,
+          "endSec": 2.47
+        },
+        {
+          "text": "hamma",
+          "startSec": 2.482,
+          "endSec": 2.792
+        },
+        {
+          "text": "pul",
+          "startSec": 2.805,
+          "endSec": 2.966
+        },
+        {
+          "text": "qarzga",
+          "startSec": 2.973,
+          "endSec": 3.296
+        },
+        {
+          "text": "ketyaptimi?",
+          "startSec": 3.309,
+          "endSec": 3.864
+        },
+        {
+          "text": "Birgina",
+          "startSec": 3.955,
+          "endSec": 4.414
+        },
+        {
+          "text": "tugma",
+          "startSec": 4.433,
+          "endSec": 4.743
+        },
+        {
+          "text": "bilan",
+          "startSec": 4.756,
+          "endSec": 5.066
+        },
+        {
+          "text": "haftalik,",
+          "startSec": 5.078,
+          "endSec": 5.501
+        },
+        {
+          "text": "oylik",
+          "startSec": 5.569,
+          "endSec": 5.879
+        },
+        {
+          "text": "va",
+          "startSec": 5.892,
+          "endSec": 6.041
+        },
+        {
+          "text": "yillik",
+          "startSec": 6.047,
+          "endSec": 6.37
+        },
+        {
+          "text": "tushumni",
+          "startSec": 6.383,
+          "endSec": 6.854
+        },
+        {
+          "text": "ko'rib,",
+          "startSec": 6.874,
+          "endSec": 7.163
+        },
+        {
+          "text": "savdoyingiz",
+          "startSec": 7.21,
+          "endSec": 7.842
+        },
+        {
+          "text": "o'sishini",
+          "startSec": 7.868,
+          "endSec": 8.476
+        },
+        {
+          "text": "o'zingiz",
+          "startSec": 8.501,
+          "endSec": 8.972
+        },
+        {
+          "text": "tahlil",
+          "startSec": 8.992,
+          "endSec": 9.314
+        },
+        {
+          "text": "qilasiz.",
+          "startSec": 9.328,
+          "endSec": 9.739
+        }
+      ]
+    },
+    "outro": {
+      "file": "lessons/lesson-01-intro/audio/uz/outro.wav",
+      "durationSec": 7.02,
+      "words": [
+        {
+          "text": "Hisob-kitobingiz",
+          "startSec": 0.08,
+          "endSec": 1.112
+        },
+        {
+          "text": "toza,",
+          "startSec": 1.155,
+          "endSec": 1.447
+        },
+        {
+          "text": "ko'nglingiz",
+          "startSec": 1.495,
+          "endSec": 2.052
+        },
+        {
+          "text": "xotirjam",
+          "startSec": 2.075,
+          "endSec": 2.591
+        },
+        {
+          "text": "bo'lsin.",
+          "startSec": 2.613,
+          "endSec": 2.941
+        },
+        {
+          "text": "Google",
+          "startSec": 2.995,
+          "endSec": 3.484
+        },
+        {
+          "text": "Play'ga",
+          "startSec": 3.504,
+          "endSec": 3.871
+        },
+        {
+          "text": "kiring",
+          "startSec": 3.886,
+          "endSec": 4.239
+        },
+        {
+          "text": "va",
+          "startSec": 4.254,
+          "endSec": 4.417
+        },
+        {
+          "text": "QarzDaftar",
+          "startSec": 4.424,
+          "endSec": 4.967
+        },
+        {
+          "text": "ilovasini",
+          "startSec": 4.99,
+          "endSec": 5.791
+        },
+        {
+          "text": "bepul",
+          "startSec": 5.824,
+          "endSec": 6.164
+        },
+        {
+          "text": "yuklab",
+          "startSec": 6.178,
+          "endSec": 6.531
+        },
+        {
+          "text": "oling.",
+          "startSec": 6.546,
+          "endSec": 6.85
+        }
+      ]
+    }
+  },
+  "ru": {
+    "intro": {
+      "file": "lessons/lesson-01-intro/audio/ru/intro.mp3",
+      "durationSec": 13.65,
+      "words": [
+        {
+          "text": "Тетрадь",
+          "startSec": 0.05,
+          "endSec": 0.55
+        },
+        {
+          "text": "рвётся",
+          "startSec": 0.55,
+          "endSec": 1.038
+        },
+        {
+          "text": "страницы",
+          "startSec": 1.262,
+          "endSec": 1.837
+        },
+        {
+          "text": "пачкаются",
+          "startSec": 1.837,
+          "endSec": 2.487
+        },
+        {
+          "text": "а",
+          "startSec": 2.7,
+          "endSec": 2.862
+        },
+        {
+          "text": "при",
+          "startSec": 2.862,
+          "endSec": 3.013
+        },
+        {
+          "text": "расчётах",
+          "startSec": 3.013,
+          "endSec": 3.513
+        },
+        {
+          "text": "легко",
+          "startSec": 3.513,
+          "endSec": 3.837
+        },
+        {
+          "text": "ошибиться",
+          "startSec": 3.837,
+          "endSec": 4.537
+        },
+        {
+          "text": "и",
+          "startSec": 4.537,
+          "endSec": 4.638
+        },
+        {
+          "text": "поспорить",
+          "startSec": 4.638,
+          "endSec": 5.112
+        },
+        {
+          "text": "с",
+          "startSec": 5.112,
+          "endSec": 5.15
+        },
+        {
+          "text": "клиентом",
+          "startSec": 5.15,
+          "endSec": 5.75
+        },
+        {
+          "text": "Перестаньте",
+          "startSec": 6.588,
+          "endSec": 7.188
+        },
+        {
+          "text": "листать",
+          "startSec": 7.188,
+          "endSec": 7.612
+        },
+        {
+          "text": "тетради",
+          "startSec": 7.612,
+          "endSec": 8.125
+        },
+        {
+          "text": "в",
+          "startSec": 8.125,
+          "endSec": 8.213
+        },
+        {
+          "text": "поисках",
+          "startSec": 8.213,
+          "endSec": 8.65
+        },
+        {
+          "text": "долгов",
+          "startSec": 8.65,
+          "endSec": 9.225
+        },
+        {
+          "text": "QarzDaftar",
+          "startSec": 10.15,
+          "endSec": 10.85
+        },
+        {
+          "text": "наведёт",
+          "startSec": 10.85,
+          "endSec": 11.313
+        },
+        {
+          "text": "идеальный",
+          "startSec": 11.313,
+          "endSec": 11.762
+        },
+        {
+          "text": "порядок",
+          "startSec": 11.762,
+          "endSec": 12.2
+        },
+        {
+          "text": "прямо",
+          "startSec": 12.2,
+          "endSec": 12.613
+        },
+        {
+          "text": "в",
+          "startSec": 12.613,
+          "endSec": 12.662
+        },
+        {
+          "text": "вашем",
+          "startSec": 12.662,
+          "endSec": 13.037
+        },
+        {
+          "text": "телефоне",
+          "startSec": 13.037,
+          "endSec": 13.65
+        }
+      ]
+    },
+    "quick-debt": {
+      "file": "lessons/lesson-01-intro/audio/ru/quick-debt.mp3",
+      "durationSec": 13.16,
+      "words": [
+        {
+          "text": "Больше",
+          "startSec": 0.05,
+          "endSec": 0.675
+        },
+        {
+          "text": "никакой",
+          "startSec": 0.675,
+          "endSec": 1.125
+        },
+        {
+          "text": "неловкости",
+          "startSec": 1.125,
+          "endSec": 1.762
+        },
+        {
+          "text": "при",
+          "startSec": 1.762,
+          "endSec": 1.938
+        },
+        {
+          "text": "выдаче",
+          "startSec": 1.938,
+          "endSec": 2.313
+        },
+        {
+          "text": "долга",
+          "startSec": 2.313,
+          "endSec": 2.813
+        },
+        {
+          "text": "Как",
+          "startSec": 3.725,
+          "endSec": 4.013
+        },
+        {
+          "text": "только",
+          "startSec": 4.013,
+          "endSec": 4.325
+        },
+        {
+          "text": "вы",
+          "startSec": 4.325,
+          "endSec": 4.463
+        },
+        {
+          "text": "вводите",
+          "startSec": 4.463,
+          "endSec": 4.975
+        },
+        {
+          "text": "имя",
+          "startSec": 4.975,
+          "endSec": 5.338
+        },
+        {
+          "text": "и",
+          "startSec": 5.338,
+          "endSec": 5.475
+        },
+        {
+          "text": "сумму",
+          "startSec": 5.475,
+          "endSec": 5.888
+        },
+        {
+          "text": "клиенту",
+          "startSec": 6.175,
+          "endSec": 6.638
+        },
+        {
+          "text": "уходит",
+          "startSec": 6.638,
+          "endSec": 7.013
+        },
+        {
+          "text": "вежливое",
+          "startSec": 7.013,
+          "endSec": 7.625
+        },
+        {
+          "text": "SMS",
+          "startSec": 7.625,
+          "endSec": 8.3
+        },
+        {
+          "text": "А",
+          "startSec": 9.162,
+          "endSec": 9.363
+        },
+        {
+          "text": "в",
+          "startSec": 9.363,
+          "endSec": 9.425
+        },
+        {
+          "text": "карточке",
+          "startSec": 9.425,
+          "endSec": 9.95
+        },
+        {
+          "text": "сохраняется",
+          "startSec": 9.95,
+          "endSec": 10.588
+        },
+        {
+          "text": "вся",
+          "startSec": 10.588,
+          "endSec": 10.863
+        },
+        {
+          "text": "история",
+          "startSec": 10.863,
+          "endSec": 11.3
+        },
+        {
+          "text": "каждой",
+          "startSec": 11.3,
+          "endSec": 11.662
+        },
+        {
+          "text": "оплаты",
+          "startSec": 11.662,
+          "endSec": 12.125
+        },
+        {
+          "text": "и",
+          "startSec": 12.125,
+          "endSec": 12.275
+        },
+        {
+          "text": "сообщения",
+          "startSec": 12.275,
+          "endSec": 13.162
+        }
+      ]
+    },
+    "installment": {
+      "file": "lessons/lesson-01-intro/audio/ru/installment.mp3",
+      "durationSec": 11.64,
+      "words": [
+        {
+          "text": "Отдали",
+          "startSec": 0.05,
+          "endSec": 0.563
+        },
+        {
+          "text": "холодильник",
+          "startSec": 0.563,
+          "endSec": 1.337
+        },
+        {
+          "text": "или",
+          "startSec": 1.337,
+          "endSec": 1.575
+        },
+        {
+          "text": "телефон",
+          "startSec": 1.575,
+          "endSec": 2.013
+        },
+        {
+          "text": "в",
+          "startSec": 2.013,
+          "endSec": 2.05
+        },
+        {
+          "text": "рассрочку",
+          "startSec": 2.05,
+          "endSec": 2.775
+        },
+        {
+          "text": "Приложение",
+          "startSec": 3.612,
+          "endSec": 4.3
+        },
+        {
+          "text": "само",
+          "startSec": 4.3,
+          "endSec": 4.612
+        },
+        {
+          "text": "составит",
+          "startSec": 4.612,
+          "endSec": 5.162
+        },
+        {
+          "text": "наглядный",
+          "startSec": 5.162,
+          "endSec": 5.7
+        },
+        {
+          "text": "график",
+          "startSec": 5.7,
+          "endSec": 6.112
+        },
+        {
+          "text": "по",
+          "startSec": 6.112,
+          "endSec": 6.25
+        },
+        {
+          "text": "месяцам",
+          "startSec": 6.25,
+          "endSec": 6.85
+        },
+        {
+          "text": "А",
+          "startSec": 7.75,
+          "endSec": 7.963
+        },
+        {
+          "text": "в",
+          "startSec": 7.963,
+          "endSec": 8.025
+        },
+        {
+          "text": "день",
+          "startSec": 8.025,
+          "endSec": 8.238
+        },
+        {
+          "text": "платежа",
+          "startSec": 8.238,
+          "endSec": 8.7
+        },
+        {
+          "text": "вовремя",
+          "startSec": 8.7,
+          "endSec": 9.2
+        },
+        {
+          "text": "отправит",
+          "startSec": 9.2,
+          "endSec": 9.725
+        },
+        {
+          "text": "клиенту",
+          "startSec": 9.725,
+          "endSec": 10.238
+        },
+        {
+          "text": "деликатное",
+          "startSec": 10.238,
+          "endSec": 10.825
+        },
+        {
+          "text": "напоминание",
+          "startSec": 10.825,
+          "endSec": 11.637
+        }
+      ]
+    },
+    "suppliers": {
+      "file": "lessons/lesson-01-intro/audio/ru/suppliers.mp3",
+      "durationSec": 10.7,
+      "words": [
+        {
+          "text": "Не",
+          "startSec": 0.05,
+          "endSec": 0.338
+        },
+        {
+          "text": "забывайте",
+          "startSec": 0.338,
+          "endSec": 0.938
+        },
+        {
+          "text": "и",
+          "startSec": 0.938,
+          "endSec": 1.125
+        },
+        {
+          "text": "о",
+          "startSec": 1.125,
+          "endSec": 1.15
+        },
+        {
+          "text": "расчётах",
+          "startSec": 1.15,
+          "endSec": 1.637
+        },
+        {
+          "text": "с",
+          "startSec": 1.637,
+          "endSec": 1.7
+        },
+        {
+          "text": "оптовиками",
+          "startSec": 1.7,
+          "endSec": 2.35
+        },
+        {
+          "text": "которые",
+          "startSec": 2.625,
+          "endSec": 3.063
+        },
+        {
+          "text": "привозят",
+          "startSec": 3.063,
+          "endSec": 3.538
+        },
+        {
+          "text": "вам",
+          "startSec": 3.538,
+          "endSec": 3.725
+        },
+        {
+          "text": "товар",
+          "startSec": 3.725,
+          "endSec": 4.175
+        },
+        {
+          "text": "Сколько",
+          "startSec": 5.075,
+          "endSec": 5.612
+        },
+        {
+          "text": "товара",
+          "startSec": 5.612,
+          "endSec": 5.95
+        },
+        {
+          "text": "принято",
+          "startSec": 5.95,
+          "endSec": 6.35
+        },
+        {
+          "text": "сколько",
+          "startSec": 6.6,
+          "endSec": 7.013
+        },
+        {
+          "text": "денег",
+          "startSec": 7.013,
+          "endSec": 7.4
+        },
+        {
+          "text": "отдано",
+          "startSec": 7.4,
+          "endSec": 7.9
+        },
+        {
+          "text": "и",
+          "startSec": 7.9,
+          "endSec": 7.987
+        },
+        {
+          "text": "каков",
+          "startSec": 7.987,
+          "endSec": 8.387
+        },
+        {
+          "text": "остаток",
+          "startSec": 8.387,
+          "endSec": 8.825
+        },
+        {
+          "text": "долга",
+          "startSec": 8.825,
+          "endSec": 9.162
+        },
+        {
+          "text": "всё",
+          "startSec": 9.412,
+          "endSec": 9.675
+        },
+        {
+          "text": "всегда",
+          "startSec": 9.675,
+          "endSec": 10.1
+        },
+        {
+          "text": "под",
+          "startSec": 10.1,
+          "endSec": 10.225
+        },
+        {
+          "text": "рукой",
+          "startSec": 10.225,
+          "endSec": 10.7
+        }
+      ]
+    },
+    "analytics": {
+      "file": "lessons/lesson-01-intro/audio/ru/analytics.mp3",
+      "durationSec": 10.51,
+      "words": [
+        {
+          "text": "Остаётся",
+          "startSec": 0.05,
+          "endSec": 0.7
+        },
+        {
+          "text": "ли",
+          "startSec": 0.7,
+          "endSec": 0.813
+        },
+        {
+          "text": "в",
+          "startSec": 0.813,
+          "endSec": 0.85
+        },
+        {
+          "text": "магазине",
+          "startSec": 0.85,
+          "endSec": 1.413
+        },
+        {
+          "text": "реальная",
+          "startSec": 1.413,
+          "endSec": 1.85
+        },
+        {
+          "text": "прибыль",
+          "startSec": 1.85,
+          "endSec": 2.275
+        },
+        {
+          "text": "или",
+          "startSec": 2.275,
+          "endSec": 2.538
+        },
+        {
+          "text": "все",
+          "startSec": 2.538,
+          "endSec": 2.788
+        },
+        {
+          "text": "деньги",
+          "startSec": 2.788,
+          "endSec": 3.175
+        },
+        {
+          "text": "уходят",
+          "startSec": 3.175,
+          "endSec": 3.638
+        },
+        {
+          "text": "в",
+          "startSec": 3.638,
+          "endSec": 3.7
+        },
+        {
+          "text": "долги",
+          "startSec": 3.7,
+          "endSec": 4.175
+        },
+        {
+          "text": "В",
+          "startSec": 5.013,
+          "endSec": 5.237
+        },
+        {
+          "text": "один",
+          "startSec": 5.237,
+          "endSec": 5.537
+        },
+        {
+          "text": "клик",
+          "startSec": 5.537,
+          "endSec": 5.825
+        },
+        {
+          "text": "смотрите",
+          "startSec": 5.825,
+          "endSec": 6.362
+        },
+        {
+          "text": "отчёты",
+          "startSec": 6.362,
+          "endSec": 6.737
+        },
+        {
+          "text": "за",
+          "startSec": 6.737,
+          "endSec": 6.862
+        },
+        {
+          "text": "неделю",
+          "startSec": 6.862,
+          "endSec": 7.3
+        },
+        {
+          "text": "месяц",
+          "startSec": 7.6,
+          "endSec": 8
+        },
+        {
+          "text": "и",
+          "startSec": 8,
+          "endSec": 8.1
+        },
+        {
+          "text": "год",
+          "startSec": 8.1,
+          "endSec": 8.4
+        },
+        {
+          "text": "и",
+          "startSec": 8.725,
+          "endSec": 8.813
+        },
+        {
+          "text": "уверенно",
+          "startSec": 8.813,
+          "endSec": 9.213
+        },
+        {
+          "text": "развивайте",
+          "startSec": 9.213,
+          "endSec": 9.762
+        },
+        {
+          "text": "свой",
+          "startSec": 9.762,
+          "endSec": 10
+        },
+        {
+          "text": "бизнес",
+          "startSec": 10,
+          "endSec": 10.512
+        }
+      ]
+    },
+    "outro": {
+      "file": "lessons/lesson-01-intro/audio/ru/outro.mp3",
+      "durationSec": 8.43,
+      "words": [
+        {
+          "text": "Пусть",
+          "startSec": 0.05,
+          "endSec": 0.388
+        },
+        {
+          "text": "ваши",
+          "startSec": 0.388,
+          "endSec": 0.65
+        },
+        {
+          "text": "расчёты",
+          "startSec": 0.65,
+          "endSec": 1.1
+        },
+        {
+          "text": "будут",
+          "startSec": 1.1,
+          "endSec": 1.387
+        },
+        {
+          "text": "точными",
+          "startSec": 1.387,
+          "endSec": 1.925
+        },
+        {
+          "text": "а",
+          "startSec": 2.138,
+          "endSec": 2.3
+        },
+        {
+          "text": "душа",
+          "startSec": 2.3,
+          "endSec": 2.688
+        },
+        {
+          "text": "спокойной",
+          "startSec": 2.9,
+          "endSec": 3.638
+        },
+        {
+          "text": "Зайдите",
+          "startSec": 4.487,
+          "endSec": 5.125
+        },
+        {
+          "text": "в",
+          "startSec": 5.125,
+          "endSec": 5.188
+        },
+        {
+          "text": "Google",
+          "startSec": 5.188,
+          "endSec": 5.513
+        },
+        {
+          "text": "Play",
+          "startSec": 5.513,
+          "endSec": 5.85
+        },
+        {
+          "text": "и",
+          "startSec": 5.85,
+          "endSec": 6.013
+        },
+        {
+          "text": "скачайте",
+          "startSec": 6.013,
+          "endSec": 6.513
+        },
+        {
+          "text": "приложение",
+          "startSec": 6.513,
+          "endSec": 7.138
+        },
+        {
+          "text": "QarzDaftar",
+          "startSec": 7.138,
+          "endSec": 7.75
+        },
+        {
+          "text": "бесплатно",
+          "startSec": 7.75,
+          "endSec": 8.425
+        }
+      ]
+    }
+  }
+}

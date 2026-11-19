@@ -1,0 +1,33 @@
+{
+  "name": "qarzdaftar-videos",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Remotion video lessons package for QarzDaftar (Uzbek and Russian)",
+  "scripts": {
+    "dev": "remotion studio",
+    "typecheck": "tsc --noEmit",
+    "tts": "node scripts/generate-voice.mjs",
+    "tts:lesson1": "node scripts/generate-voice.mjs --lesson lesson-01-intro",
+    "render:lesson1:uz": "remotion render src/index.ts Lesson01-UZ-Vertical social/lesson-01-intro/uz-vertical-9x16.mp4",
+    "render:lesson1:uz:landscape": "remotion render src/index.ts Lesson01-UZ-Landscape social/lesson-01-intro/uz-landscape-16x9.mp4",
+    "render:lesson1:ru": "remotion render src/index.ts Lesson01-RU-Vertical social/lesson-01-intro/ru-vertical-9x16.mp4",
+    "render:lesson1:ru:landscape": "remotion render src/index.ts Lesson01-RU-Landscape social/lesson-01-intro/ru-landscape-16x9.mp4",
+    "render:lesson1:thumb:uz": "remotion still src/index.ts Lesson01-UZ-Vertical social/lesson-01-intro/uz-thumbnail.png --frame=45",
+    "render:lesson1:thumb:ru": "remotion still src/index.ts Lesson01-RU-Vertical social/lesson-01-intro/ru-thumbnail.png --frame=45"
+  },
+  "dependencies": {
+    "@remotion/cli": "^4.0.0",
+    "@remotion/google-fonts": "^4.0.0",
+    "@remotion/transitions": "^4.0.0",
+    "lucide-react": "^0.468.0",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "remotion": "^4.0.0",
+    "zod": "^3.23.8"
+  },
+  "devDependencies": {
+    "@andresaya/edge-tts": "^1.9.1",
+    "@types/react": "^18.3.12",
+    "typescript": "^5.7.2"
+  }
+}
